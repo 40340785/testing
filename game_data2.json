@@ -1,0 +1,70 @@
+
+{
+  "choices": [
+    {
+      "id": 0,
+      "titleWords": "Beep! Beep! Beep! Kevins alarm shrieked, it was 6am on Monday morning.",
+      "options": [
+        {
+          "A": "Turn off and get up",
+          "B": "Hit snooze and go back to sleep",
+          "C": "Turn off and sleep"
+        }
+
+      ],
+      "nextPage": [
+        {
+          "A": 1,
+          "B": 2,
+	  "C": 3
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "titleWords": "Kevin is awake and up, time for a drink, what should Kevin drink?",
+      "options": [
+        {
+          "A": "Coffee",
+          "B": "Tea",
+          "C": "A Beer"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titleWords": "Beep! Beep! Beep! it's now 6:15am.",
+      "options": [
+        {
+          "A": "Turn off and get up",
+          "B": "Hit snooze and go back to sleep",
+          "C": "Turn off and sleep"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titleWords": "It's now 3pm, Kevin looks at his phone, he has 3 missed calls from work",
+      "options": [
+        {
+          "A": "Get up and phone in and make an excuse.",
+          "B": "Get up and don't phone work with an excuse.",
+          "C": "Go back to sleep."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "titleWords": "Kevin wakes up grogily, he looks at his phone. 7 missed calls and one text. The text is from his boss saying 'You're fired, don't show up here again!!!!'",
+
+    },
+    {
+      "id": 101,
+      "titleWords1": "Well done "
+      "titlewords2": ", now kevin has no jog, loses his house and dies alone in the cold. Why did you do this to him, what did he ever do to you?"
+    }
+
+
+
+  ]
+}
